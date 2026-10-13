@@ -1,4 +1,7 @@
 # 1 -  10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT INIT]] | ➡️ Tiếp theo: [[GIT ADD]]
+
 ## 1. GIT STATUS LÀ GÌ?
 - hiển thị trạng thái cây làm việc - working tree và staging area - vùng đệm giữa folder làm việc và commit
 ```text

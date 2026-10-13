@@ -1,4 +1,7 @@
- # 3 - 10 - 2026
+# 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[RESTORE]] | ➡️ Tiếp theo: [[SETUP HTTPS + GITHUB CLI]]
+
 ## 1. REMOTE LÀ GÌ?
 - `remote` - bản sao của repo nằm ở chỗ khác (`github` , `gitlaab` , `server` )
 - local của bạn chỉ là 1 bản, remote dùng để sao lưu + chia sẻ

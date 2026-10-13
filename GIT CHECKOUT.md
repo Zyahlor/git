@@ -1,4 +1,7 @@
 # 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT BRANCH]] | ➡️ Tiếp theo: [[REBASE]]
+
 ## 1. GIT CHECKOUT LÀ GÌ?
 - là lệnh cũ, hiện nay đã được đổi mới gần hết
 

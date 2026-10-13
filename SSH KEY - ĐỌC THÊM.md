@@ -1,4 +1,7 @@
 # 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[SETUP HTTPS + GITHUB CLI]] | ➡️ Tiếp theo: [[GIT PULL]]
+
 ## 1. SSH key là gì?
 - thay vì gõ pass cho mỗi lần push , bạn tạo 1 cặp khóa:
 

@@ -1,4 +1,7 @@
 # 2 - 10 -2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ➡️ Tiếp theo: [[GIT STATUS]]
+
 ## 1. GIT INIT là gì?
 - biến folder thành repo git - làm 1 việc duy nhất tạo folder ẩn `.git` bên trong
 ```bash

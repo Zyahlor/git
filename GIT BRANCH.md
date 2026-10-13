@@ -1,4 +1,7 @@
 # 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT PULL]] | ➡️ Tiếp theo: [[GIT CHECKOUT]]
+
 ## 1. BRANCH LÀ GÌ?
 -  là nhánh = 1 dòng phát triển riêng, bạn tách ra làm tính năng mới mà ko đụng vào code chính (main), làm xong thì merge (gộp) lại
 ```text

@@ -1,4 +1,7 @@
 # 2 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT COMMIT]] | ➡️ Tiếp theo: [[GIT DIFF]]
+
 ## 1. GIT LOG LÀ GÌ?
 - liệt kê các commit từ mới -> cũ nhất
 

@@ -1,4 +1,7 @@
 # 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT DIFF]] | ➡️ Tiếp theo: [[RESTORE]]
+
 ## 1. `.gitignore` là gì?
 - bỏ qua các tên file trong  nội dung của `.gitignore` 
 - là 1 file text nằm trong repo, liệt kê file/folder git không theo dõi, không hiện ở git status, không bị git add đưa vào

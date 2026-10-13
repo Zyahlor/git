@@ -1,4 +1,7 @@
 # 4 - 10 -2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT BRANCH]] | 🚑 Cứu nguy: [[RESTORE]]
+
 ## 1. rebase là gif?
 - dời các commit của nhánh bạn sang đứng sau đầu cảu nhánh khác, như bắt đầu làm từ commit mới nhất
 

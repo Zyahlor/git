@@ -1,4 +1,7 @@
 # 3 - 10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[REMOTE]] | ➡️ Tiếp theo: [[GIT BRANCH]]
+
 ## 1. GIT PULL LÀ GÌ?
 - láy thay đổi từ remote về và gộp vào nhánh hiện tại
 ```text

@@ -1,4 +1,7 @@
 # 2 -10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT ADD]] | ➡️ Tiếp theo: [[GIT LOG]]
+
 ## 1. GIT COMMIT LÀ GÌ?
 - lưu staging thành 1 mốc trong lịch sử
 

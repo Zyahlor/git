@@ -1,4 +1,7 @@
 # 4 -10 - 2026
+
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[REMOTE]] | ➡️ Đọc thêm: [[SSH KEY - ĐỌC THÊM]] | ➡️ Tiếp theo: [[GIT PULL]]
+
 ## 1. tải công cụ
 - gh
 - setup: `gh auth login` -> github.com -> https -> đăng nhập qua trình duyệt, browser
