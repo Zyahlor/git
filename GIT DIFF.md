@@ -1,6 +1,6 @@
 # 2 - 10 - 2026
 
-> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT LOG]] | ➡️ Tiếp theo: [[gitignore]]
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT LOG]] | ➡️ Tiếp theo: [[GIT SHOW]]
 
 ## 1. GIT DIFF LÀ GÌ?
  - `git status` cho biết file nào đổi  thì `git diff` cho biết đổi gì bên trong bao gồm dòng nào, thêm ,sửa gì

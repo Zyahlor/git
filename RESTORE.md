@@ -1,6 +1,6 @@
 # 4 - 10 - 2026
 
-> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[gitignore]] | ➡️ Tiếp theo: [[REMOTE]]
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[gitignore]] | ➡️ Tiếp theo: [[GIT CLEAN]]
 
 
 Lỡ tay là chuyện chắc chắn xảy ra. Bài này là bộ "cứu hộ". Trước tiên phải biết **sai ở khu vực nào** thì dùng lệnh đó:

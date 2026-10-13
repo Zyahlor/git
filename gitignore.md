@@ -1,6 +1,6 @@
 # 3 - 10 - 2026
 
-> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT DIFF]] | ➡️ Tiếp theo: [[RESTORE]]
+> 🧭 **Điều hướng:** [[lộ trình]] • [[HỆ THỐNG NHANH]] | ⬅️ Trước: [[GIT FILE OPERATIONS]] | ➡️ Tiếp theo: [[RESTORE]]
 
 ## 1. `.gitignore` là gì?
 - bỏ qua các tên file trong  nội dung của `.gitignore` 
